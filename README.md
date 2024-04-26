@@ -16,12 +16,12 @@ This Python script implements a simple math game where the player is asked rando
 - Handles user input errors gracefully.
 - Keeps track of the player's score.
 
-**Remember::  **
+**Remember**:  
 You can always change the range of values to be used in the game via the code
 
 ## Usage
 
 ```bash
-python math_game.py
+python3 math_game.py / python3 main.py
 
 
